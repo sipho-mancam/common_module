@@ -1,0 +1,18 @@
+﻿  common_module.cpp
+C:\Users\Sipho Mancam\Documents\Programming\Player Tracking\src\common_module\include\configs.h(76,35): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'common_module.cpp')
+  
+C:\Users\Sipho Mancam\Documents\Programming\Player Tracking\src\common_module\include\configs.h(45,34): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'common_module.cpp')
+  C:\Users\Sipho Mancam\Documents\Programming\Player Tracking\src\common_module\include\configs.h(45,34):
+  the template instantiation context (the oldest one first) is
+  	C:\Users\Sipho Mancam\Documents\Programming\Player Tracking\src\common_module\common_module.cpp(14,21):
+  	see reference to function template instantiation 'T ConfigReader::getValue<std::string>(const std::string &)' being compiled
+          with
+          [
+              T=std::string
+          ]
+  
+  common_module.vcxproj -> C:\Users\Sipho Mancam\Documents\Programming\Player Tracking\src\Video Input System\x64\Debug\common_module.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
