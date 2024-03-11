@@ -1,0 +1,7 @@
+﻿  common_module.cpp
+  config.cpp
+C:\Users\Sipho Mancam\Documents\Programming\Player Tracking\src\common_module\include\configs.h(76,35): warning C4101: 'e': unreferenced local variable
+  (compiling source file 'src/config.cpp')
+  
+  Generating Code...
+  common_module.vcxproj -> C:\Users\Sipho Mancam\Documents\Programming\Player Tracking\src\Video Input System\Debug\common_module.lib

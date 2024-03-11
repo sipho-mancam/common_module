@@ -1,6 +1,4 @@
-#include <configs.h>
-#include <iostream>
-#include <string>
+
 
 int main()
 {
